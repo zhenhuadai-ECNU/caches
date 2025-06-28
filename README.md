@@ -1,2 +1,2 @@
 # caches
-cache files
+cache files, figures
